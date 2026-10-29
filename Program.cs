@@ -12,9 +12,13 @@ class Program
         Console.WriteLine("hello everyone"); 
     }
 
-    // Новый метод от White
     static void greetWhite()
     {
         Console.WriteLine("hello white");
     }
+
+    static void GreetBlack()
+{
+    Console.WriteLine("hello black");
+}
 }
