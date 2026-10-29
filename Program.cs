@@ -5,6 +5,8 @@ class Program
     static void Main(string[] args)
     {
         SayHello();
+        GreetWhite();
+        GreetBlack();
     }
 
     static void SayHello()
@@ -12,7 +14,7 @@ class Program
         Console.WriteLine("hello everyone"); 
     }
 
-    static void greetWhite()
+    static void GreetWhite()
     {
         Console.WriteLine("hello white");
     }
