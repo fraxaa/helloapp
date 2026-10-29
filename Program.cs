@@ -9,7 +9,7 @@ class Program
 
     static void SayHello()
     {
-        Console.WriteLine("hello");
+        Console.WriteLine("hello everyone"); 
     }
 
     // Новый метод от White
